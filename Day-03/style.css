@@ -1,0 +1,18 @@
+body{
+    background-color: lightyellow;
+}
+h1{
+    color: darkblue;
+    background-color: lightblue;
+}
+p{
+    color: green;
+    background-color: lightgray;
+}
+.box{
+    width: 300px;
+    padding: 100px;
+    background-color: rgb(8, 8, 8);
+    border: 3px solid rgb(28, 188, 199);
+    color: white;
+}
