@@ -1,0 +1,13 @@
+.hero{
+    h1{
+        color: black;
+    }
+    height: 500px;
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding-top: 200ox;
+}
