@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Fixed Navbar */
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+
+}
+
+/* Parent */
+.container{
+     position: relative;
+     width: 500px;
+     hight: 300px;
+     background: #eee;
+     margin: 120px auto;
+
+}
+
+/* Relative */
+
+.box1{
+
+    position:relative;
+
+    left:30px;
+
+    top:20px;
+
+    width:150px;
+
+    height:100px;
+
+    background:lightgreen;
+
+}
+
+/* Absolute */
+.Box2{
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    width: 150px;
+    height: 100px;
+    background: red;
+}
+
+/* floating botton */
+.floating-btn{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: red;
+    color: white;
+    padding: 15px;
+    border-radius: 50%;
+
+
+}
