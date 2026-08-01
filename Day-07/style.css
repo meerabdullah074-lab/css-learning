@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+.box{
+    display:inline-block;
+    width:150px;
+    height:100px;
+    background-color:skyblue;
+    border:2px solid blue;
+    margin:10px;
+    text-align:center;
+    line-height:100px;
+}
+
+.hidden{
+    visibility:hidden;
+}
+
+.transparent{
+    opacity:0.5;
+}
